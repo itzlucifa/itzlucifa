@@ -1,57 +1,60 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7,2,8,12,16,19&height=200&section=header&text=itzlucifa&fontSize=60&fontAlignY=35&desc=Sumit%20Nawale%20%7C%20ENTC%20Student%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=18" alt="itzlucifa banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1f9d55,2d2924,14120f,f4efe4&height=220&section=header&text=itzlucifa&fontSize=65&fontAlignY=38&desc=Sumit%20Nawale%20%7C%20Data%20Analyst%20in%20Training%20%7C%20Security%20Engineer%20at%20Heart&descAlignY=58&descSize=18" alt="itzlucifa banner"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=🛡️+Cybersecurity+Enthusiast;🎓+ENTC+Student+%7C+Future+Ethical+Hacker;🤖+AI+%26+Surveillance+Systems+Developer;💻+Full+Stack+Developer;🚀+Building+PRAHARI+-+AI+Surveillance+Platform" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=1f9d55&center=true&vCenter=true&width=800&lines=🛡️+Data+Analyst+in+Training+%7C+Security+Engineer+at+Heart;🎓+BCA+CyberSecurity+%26+Cloud+Computing+%7C+MGM+University;🤖+Built+NETRA+CyberShield+%E2%80%94+Autonomous+AI+Security+Platform;🔬+Python+%7C+TypeScript+%7C+Rust+%7C+AI%2FML+%7C+Security+Engineering;🚀+Seeking+Data+Analytics+%26+Security+Internships" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itzlucifa&style=for-the-badge&color=06B6D4&label=Profile+Views" alt="Profile views" />
-  <a href="https://github.com/itzlucifa?tab=followers"><img src="https://img.shields.io/github/followers/itzlucifa?style=for-the-badge&color=7C3AED&logo=github&logoColor=white&label=Followers" alt="Followers" /></a>
-  <a href="https://github.com/itzlucifa?tab=stars"><img src="https://img.shields.io/github/stars/itzlucifa?style=for-the-badge&color=F59E0B&logo=star&logoColor=white&label=Stars" alt="Stars" /></a>
+  <img src="https://komarev.com/ghpvc/?username=itzlucifa&style=for-the-badge&color=1f9d55&label=Profile+Views" alt="Profile views" />
+  <a href="https://github.com/itzlucifa?tab=followers"><img src="https://img.shields.io/github/followers/itzlucifa?style=for-the-badge&color=1f9d55&logo=github&logoColor=white&label=Followers" alt="Followers" /></a>
+  <a href="https://github.com/itzlucifa?tab=stars"><img src="https://img.shields.io/github/stars/itzlucifa?style=for-the-badge&color=c9861a&logo=star&logoColor=white&label=Stars" alt="Stars" /></a>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=opencv&logoColor=black" alt="YOLOv8" />
+  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri" />
 </p>
 
 ---
 
-## 👋 About Me
+## 👋 The Dossier: Sumit Nawale
 
 <div align="center">
   
   <table>
     <tr>
       <td width="50%" valign="top">
-        <h3>🎓 Education</h3>
+        <h3>🎯 Current Focus</h3>
         <ul>
-          <li><strong>Electronics & Telecommunication (ENTC)</strong> — Student</li>
-          <li>Focus: Signal Processing, Embedded Systems, Network Security</li>
+          <li><strong>Data Analyst in Training</strong> — Python, SQL, EDA, Visualization, Automation</li>
+          <li><strong>Security Engineer at Heart</strong> — NETRA CyberShield, Threat Intel, SIEM, Compliance</li>
+          <li><strong>Full-Stack Builder</strong> — React 19, Tauri 2/Rust, Supabase, Local AI (Ollama)</li>
         </ul>
         
-        <h3>🛡️ Cybersecurity Focus</h3>
+        <h3>📍 Location & Status</h3>
         <ul>
-          <li>Ethical Hacking & Penetration Testing</li>
-          <li>Network Security & Monitoring</li>
-          <li>AI-Powered Threat Detection</li>
-          <li>Digital Forensics</li>
+          <li>📍 Chh.Sambhajinagar, Maharashtra, India</li>
+          <li>🔍 <strong>Seeking Data Analytics & Security Internships</strong></li>
+          <li>📧 sumitnawale123456@gmail.com</li>
+          <li>📞 +91 87998 59591</li>
+          <li>🌐 English, Hindi, Marathi</li>
         </ul>
       </td>
       <td width="50%" valign="top">
-        <h3>🤖 Current Projects</h3>
+        <h3>🎓 Education</h3>
         <ul>
-          <li><strong>PRAHARI</strong> — AI Surveillance Platform (YOLOv8, ANPR, ReID, Face Matching, Anomaly Detection)</li>
-          <li><strong>Universal 2FA Auth System</strong> — Open Source Authentication</li>
-          <li>Portfolio Sites (React/TypeScript)</li>
+          <li><strong>BCA in CyberSecurity & Cloud Computing</strong></li>
+          <li>MGM University, Chh.Sambhajinagar (Ongoing)</li>
+          <li>Coursework: C/C++, DSA, OS & Linux, Networks, Cloud, DBMS, Cyber Security & Digital Forensics, SE & Testing</li>
         </ul>
         
-        <h3>🎯 Goals</h3>
+        <h3>🔬 Self-Directed Learning (2025–Present)</h3>
         <ul>
-          <li>Become a Certified Ethical Hacker (CEH)</li>
-          <li>Contribute to Open Source Security Tools</li>
-          <li>Build AI-Driven Security Solutions</li>
+          <li>Python Data Analysis, Log Forensics, AI System Engineering</li>
+          <li>Coursera, Udemy, NPTEL</li>
+          <li>Structured technical documentation & iterative design</li>
         </ul>
       </td>
     </tr>
@@ -61,22 +64,46 @@
 
 ---
 
-## 🚀 Featured Project: PRAHARI
+## 🚀 Flagship Project: NETRA CyberShield
 
-> **PRAHARI** unifies surveillance cameras with AI: YOLOv8 detection, ANPR, ReID, face matching, and anomaly detection. Events flow through MQTT + Qdrant to a real-time React dashboard. Compute-gated processing for edge deployment.
+> **NETRA CyberShield** — Autonomous Cybersecurity Platform. An all-in-one desktop app combining native Rust engine with cloud backend intelligence. Built solo, end-to-end. ~5MB native binary via Tauri 2 (30x smaller than Electron).
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,mqtt,react,typescript,tailwind,docker,redis,postgres,git,github,vscode,linux&perline=8" alt="PRAHARI Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,rust,tauri,supabase,postgres,redis,docker,linux,git,github,vscode,figma,python,pytorch&perline=8" alt="NETRA Tech Stack" />
 </p>
+
+### 🔑 Core Capabilities
+
+| Module | Description |
+|--------|-------------|
+| **Real-time Dashboard** | Live threat counters, system health, firewall status via Supabase Realtime (no refresh) |
+| **Native Firewall/IDS** | Rust-based Windows Filtering Platform integration, port scanning, hosts-file domain blocking |
+| **Dual-Mode AI Assistant (SAM)** | Cloud (Gemini API) for deep reasoning + Local (Ollama GGUF) for private on-device analysis |
+| **Threat Intelligence** | VirusTotal, AbuseIPDB, AlienVault OTX, Have I Been Pwned, Shodan — unified reputation lookups |
+| **SHIELD-DNS** | Raspberry Pi → Network DNS resolver with policy filtering, auto device onboarding, failover |
+| **Compliance Engine** | NIST CSF, ISO 27001, SOC 2, GDPR, PCI-DSS — automated risk assessment & PDF/HTML/JSON reports |
+| **Architecture** | Layered: UI → State Hooks → Service Integrations → Native Rust Shell (20+ modules) |
 
 <div align="center">
   <a href="https://github.com/itzlucifa/PRAHARI-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itzlucifa&repo=PRAHARI-&theme=tokyonight&show_owner=true&bg_color=0d1117&title_color=06B6D4&text_color=ffffff&icon_color=7C3AED&border_color=161b22" alt="PRAHARI" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itzlucifa&repo=PRAHARI-&theme=tokyonight&show_owner=true&bg_color=0d1117&title_color=1f9d55&text_color=f4efe4&icon_color=c9861a&border_color=2d2924" alt="PRAHARI" width="48%" />
   </a>
   <a href="https://github.com/itzlucifa/Universal-2FA-Authentication-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itzlucifa&repo=Universal-2FA-Authentication-System&theme=tokyonight&show_owner=true&bg_color=0d1117&title_color=06B6D4&text_color=ffffff&icon_color=7C3AED&border_color=161b22" alt="2FA System" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itzlucifa&repo=Universal-2FA-Authentication-System&theme=tokyonight&show_owner=true&bg_color=0d1117&title_color=1f9d55&text_color=f4efe4&icon_color=c9861a&border_color=2d2924" alt="2FA System" width="48%" />
   </a>
 </div>
+
+---
+
+## 🧪 AI-Powered Security & Analytics Tools (Exhibit B)
+
+> Automated log parsing, alert summarization, anomaly detection pipelines — the analytical backbone feeding NETRA's detection engine.
+
+- **Log Ingestion**: Python pipelines parsing multi-format syslog, JSON, sensor telemetry
+- **Anomaly Engine**: Heuristic & LLM text categorization with IOC enrichment
+- **Report Generator**: Automated executive summaries & compliance-ready docs
+- **Data Bridge**: Structured output → NETRA's Supabase pipeline for real-time dashboard sync
+- **Tech**: Python (Pandas, NumPy), Gemini API, Threat Intelligence Enrichment
 
 ---
 
@@ -85,14 +112,14 @@
 <div align="center">
   
   ### 📈 Contribution Overview
-  <img src="https://github-readme-stats.vercel.app/api?username=itzlucifa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06B6D4&text_color=ffffff&icon_color=7C3AED&border_color=161b22&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzlucifa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06B6D4&text_color=ffffff&border_color=161b22&langs_count=8" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itzlucifa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1f9d55&text_color=f4efe4&icon_color=c9861a&border_color=2d2924&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzlucifa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1f9d55&text_color=f4efe4&border_color=2d2924&langs_count=10" alt="Top Languages" width="48%" />
   
   <br />
   
   ### 🔥 Streak & Activity
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzlucifa&theme=tokyonight&hide_border=true&background=0d1117&stroke=161b22&ring=06B6D4&fire=7C3AED&currStreakLabel=06B6D4&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=itzlucifa&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06B6D4&text_color=ffffff&border_color=161b22&layout=compact" alt="WakaTime" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzlucifa&theme=tokyonight&hide_border=true&background=0d1117&stroke=2d2924&ring=1f9d55&fire=c9861a&currStreakLabel=1f9d55&sideNums=f4efe4&currStreakNum=f4efe4&sideLabels=f4efe4&dates=f4efe4" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=itzlucifa&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1f9d55&text_color=f4efe4&border_color=2d2924&layout=compact" alt="WakaTime" width="48%" />
   
 </div>
 
@@ -124,49 +151,76 @@
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Technical Arsenal (Lab Report)
 
 <div align="center">
   
   ### Languages
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,rust,go,html,css,sql,bash&perline=10" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,bash,sql,html,css,javascript,typescript,cpp,rust,go&perline=10" alt="Languages" />
   
   <br /><br />
   
   ### Frameworks & Libraries
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,fastapi,pytorch,tensorflow,opencv,yolo&perline=10" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tauri,nodejs,express,fastapi,pytorch,tensorflow,opencv&perline=10" alt="Frameworks" />
   
   <br /><br />
   
-  ### Tools & Platforms
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,git,github,gitlab,vscode,vim,linux,nginx,redis,postgres,mongodb,grafana,prometheus&perline=10" alt="Tools" />
+  ### Platforms & Infrastructure
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,windows,raspberrypi,docker,kubernetes,aws,gcp,azure,nginx,redis,postgres,mongodb,grafana,prometheus&perline=10" alt="Platforms" />
   
   <br /><br />
   
-  ### Cybersecurity & Specialized
+  ### Security Engineering & Recon
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logo=ghidra&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shodan-0077B5?style=for-the-badge&logo=shodan&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-EF2D20?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qdrant-06B6D4?style=for-the-badge&logo=qdrant&logoColor=white" />
-  <img src="https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=mqtt&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=opencv&logoColor=black" />
+  <img src="https://img.shields.io/badge/VirusTotal-1A1A2E?style=for-the-badge&logo=virustotal&logoColor=white" />
+  <img src="https://img.shields.io/badge/AbuseIPDB-00A3E0?style=for-the-badge&logo=abuseipdb&logoColor=white" />
+  <img src="https://img.shields.io/badge/AlienVault_OTX-FF6B35?style=for-the-badge&logo=alienvault&logoColor=white" />
+  <img src="https://img.shields.io/badge/Have_I_Been_Pwned-4B0082?style=for-the-badge&logo=haveibeenpwned&logoColor=white" />
+  
+  <br /><br />
+  
+  ### AI/ML & Data
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/GGUF-000000?style=for-the-badge&logo=huggingface&logoColor=white" />
+  
+  <br /><br />
+  
+  ### Compliance & Standards
+  <img src="https://img.shields.io/badge/NIST_CSF-FF6B35?style=for-the-badge&logo=nist&logoColor=white" />
+  <img src="https://img.shields.io/badge/ISO_27001-0066CC?style=for-the-badge&logo=iso&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOC_2-1A1A2E?style=for-the-badge&logo=soc2&logoColor=white" />
+  <img src="https://img.shields.io/badge/GDPR-00A3E0?style=for-the-badge&logo=eu&logoColor=white" />
+  <img src="https://img.shields.io/badge/PCI_DSS-FF6B35?style=for-the-badge&logo=pcidss&logoColor=white" />
+  
+  <br /><br />
+  
+  ### Tools & Workflow
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vim,docker,wsll,vitest,figma&perline=10" alt="Tools" />
   
 </div>
 
 ---
 
-## 📈 Detailed Metrics (Auto-Generated)
+## 📈 Detailed Metrics (Auto-Generated via lowlighter/metrics)
 
 <div align="center">
   
-  <img src="https://metrics.lecoq.io/itzlucifa?template=classic&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FKolkata&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&config.order=foo&plugin.isocalendar=yes&plugin.isocalendar.duration=full-year&plugin.languages=yes&plugin.languages.colors=github&plugin.languages.limit=8&plugin.languages.recent.load=300&plugin.languages.recent.days=14&plugin.languages.ignored=html,css&plugin.lines=yes&plugin.lines.history=1&plugin.lines.sections=base&plugin.stargazers=yes&plugin.stargazers.limit=10&plugin.stargazers.sort=stars&plugin.notable=yes&plugin.notable.from=organization&plugin.notable.repositories=yes&plugin.notable.types=commit,issue,pr&plugin.achievements=yes&plugin.achievements.threshold=C&plugin.achievements.secrets=yes&plugin.achievements.display=compact&plugin.followup=yes&plugin.followup.sections=repositories,organizations&plugin.followup.limit=10&plugin.habits=yes&plugin.habits.from=200&plugin.habits.days=14&plugin.habits.facts=yes&plugin.habits.charts=yes&plugin.habits.chart.type=classic&plugin.skills=yes&plugin.skills.columns=4&plugin.skills.details=yes&plugin.skills.threshold=0.5" alt="Metrics" width="100%" />
+  <img src="https://metrics.lecoq.io/itzlucifa?template=classic&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FKolkata&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&config.order=foo&plugin.isocalendar=yes&plugin.isocalendar.duration=full-year&plugin.languages=yes&plugin.languages.colors=github&plugin.languages.limit=10&plugin.languages.recent.load=300&plugin.languages.recent.days=14&plugin.languages.ignored=html,css&plugin.lines=yes&plugin.lines.history=1&plugin.lines.sections=base&plugin.stargazers=yes&plugin.stargazers.limit=10&plugin.stargazers.sort=stars&plugin.notable=yes&plugin.notable.from=organization&plugin.notable.repositories=yes&plugin.notable.types=commit,issue,pr&plugin.achievements=yes&plugin.achievements.threshold=C&plugin.achievements.secrets=yes&plugin.achievements.display=compact&plugin.followup=yes&plugin.followup.sections=repositories,organizations&plugin.followup.limit=10&plugin.habits=yes&plugin.habits.from=200&plugin.habits.days=14&plugin.habits.facts=yes&plugin.habits.charts=yes&plugin.habits.chart.type=classic&plugin.skills=yes&plugin.skills.columns=4&plugin.skills.details=yes&plugin.skills.threshold=0.5" alt="Metrics" width="100%" />
   
 </div>
 
 <p align="center">
-  <sub>Generated by <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> • Updates daily via GitHub Actions</sub>
+  <sub>Generated by <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> • Updates daily via GitHub Actions • IST timezone</sub>
 </p>
 
 ---
@@ -181,14 +235,17 @@
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect Channels
 
 <div align="center">
   
-  <a href="https://www.linkedin.com/in/sumit-nawale-25274638b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/sumit-nawale-25274638b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:sumitnawale@example.com">
+  <a href="https://www.linkedin.com/company/netra-cyber-solution/">
+    <img src="https://img.shields.io/badge/NETRA_Cyber_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="NETRA LinkedIn" />
+  </a>
+  <a href="mailto:sumitnawale123456@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/itzlucifa">
@@ -200,33 +257,35 @@
   
   <br /><br />
   
-  <img src="https://raw.githubusercontent.com/itzlucifa/itzlucifa/output/wave.svg" alt="Wave" width="100%" />
+  <img src="https://raw.githubusercontent.com/itzlucifa/itzlucifa/assets/wave.svg" alt="Wave" width="100%" />
   
 </div>
 
 ---
 
-## 💡 Fun Facts
+## 💡 Dossier Notes
 
 <div align="center">
   
-  | Fact | Details |
-  |------|---------|
-  | 🎯 **Current Mission** | Building PRAHARI - AI Surveillance Platform |
-  | 🏴‍☠️ **Hacker Handle** | itzlucifa |
-  | 🌙 **Timezone** | IST (UTC+5:30) |
-  | ☕ **Fuel** | Chai > Coffee |
-  | 🎮 **Break Time** | CTF Challenges / Gaming |
-  | 📚 **Learning** | Advanced Penetration Testing, Rust, eBPF |
+  | Field | Details |
+  |-------|---------|
+  | **Case Ref No.** | SN-2026-01 |
+  | **Dossier Status** | ACTIVE |
+  | **Current Mission** | NETRA CyberShield — Autonomous Security Platform |
+  | **Hacker Handle** | itzlucifa |
+  | **Timezone** | IST (UTC+5:30) |
+  | **Fuel** | Chai > Coffee |
+  | **Break Time** | CTF Challenges / Security Research |
+  | **Learning** | Advanced Pen Testing, Rust Systems, eBPF, Data Engineering |
   
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7,2,8,12,16,19&height=100&section=footer&reversal=true" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1f9d55,2d2924,14120f,f4efe4&height=100&section=footer&reversal=true" alt="Footer" />
 </p>
 
 <p align="center">
-  <sub>⭐ Star this repo if you like it! • Last updated: <a href="https://github.com/itzlucifa/itzlucifa/commits/main">Auto-updated daily</a></sub>
+  <sub>⭐ Star this repo if you like it! • Last updated: <a href="https://github.com/itzlucifa/itzlucifa/commits/main">Auto-updated daily</a> • REF NO: SN-2026-01</sub>
 </p>

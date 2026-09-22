@@ -1,0 +1,50 @@
+name: Generate 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: '0 18 * * *'  # Daily at 18:00 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          pip install github-contributions-3d
+      
+      - name: Generate 3D contribution graph
+        run: |
+          github-contributions-3d \
+            --user=itzlucifa \
+            --repo=itzlucifa \
+            --output=dist/3d-contrib.svg \
+            --type=rainbow \
+            --background-color=#0d1117 \
+            --radar-color=#7C3AED \
+            --growing-animation \
+            --contrib-colors='#161b22,#2D1B69,#5B21B6,#7C3AED,#06B6D4'
+      
+      - name: Push 3D contribution graph
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -f dist/
+          git commit -m "🌈 Update 3D contribution graph" || echo "No changes to commit"
+          git push

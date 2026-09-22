@@ -2,7 +2,7 @@ name: Generate 3D Contribution Graph
 
 on:
   schedule:
-    - cron: '0 18 * * *'  # Daily at 18:00 UTC
+    - cron: '0 18 * * *'
   workflow_dispatch:
   push:
     branches: [main]
@@ -15,31 +15,17 @@ jobs:
       contents: write
     
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
       
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-      
-      - name: Install dependencies
-        run: |
-          pip install github-contributions-3d
-      
       - name: Generate 3D contribution graph
-        run: |
-          github-contributions-3d \
-            --user=itzlucifa \
-            --repo=itzlucifa \
-            --output=dist/3d-contrib.svg \
-            --type=rainbow \
-            --background-color=#0d1117 \
-            --radar-color=#7C3AED \
-            --growing-animation \
-            --contrib-colors='#161b22,#2D1B69,#5B21B6,#7C3AED,#06B6D4'
+        uses: yihong0648/github-contrib-3d-action@v1.0.2
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: itzlucifa
+          year: 2026
+          output_path: dist/3d-contrib.svg
       
       - name: Push 3D contribution graph
         run: |

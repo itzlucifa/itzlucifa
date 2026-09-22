@@ -128,7 +128,7 @@
 ## 🐍 Snake Animation (Eats Your Contributions)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/itzlucifa/itzlucifa/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/itzlucifa/itzlucifa/dist/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 <p align="center">
@@ -140,8 +140,8 @@
 ## 🌈 3D Contribution Graph
 
 <p align="center">
-  <a href="https://github.com/itzlucifa/itzlucifa/blob/output/3d-contrib.svg">
-    <img src="https://raw.githubusercontent.com/itzlucifa/itzlucifa/output/3d-contrib.svg" alt="3D Contribution Graph" width="80%" />
+  <a href="https://github.com/itzlucifa/itzlucifa/blob/dist/3d-contrib.svg">
+    <img src="https://raw.githubusercontent.com/itzlucifa/itzlucifa/dist/3d-contrib.svg" alt="3D Contribution Graph" width="80%" />
   </a>
 </p>
 
@@ -257,7 +257,7 @@
   
   <br /><br />
   
-  <img src="https://raw.githubusercontent.com/itzlucifa/itzlucifa/assets/wave.svg" alt="Wave" width="100%" />
+  <img src="https://raw.githubusercontent.com/itzlucifa/itzlucifa/main/assets/wave.svg" alt="Wave" width="100%" />
   
 </div>
 
